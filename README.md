@@ -79,6 +79,7 @@ A curated awesome list of AltStore sources (JSON repositories) to easily discove
 - [repo.apptesters.org](https://repo.apptesters.org) — **App Testers Repo** : Reference repo with 2300+ IPA files (games and apps) compatible with iOS 14–17, ready to install.
 - [repo.starfiles.co/public?gbox](https://repo.starfiles.co/public?gbox) — **Starfiles Community Repo** : Massive collection (1000+ IPAs) including cracked apps, tweaks and jailbreak tools. Compatible with GBox IPA Installer.
 - [stikdebug.xyz/apps.json](https://stikdebug.xyz/apps.json) — **StikDebug** : Source for StikDebug, a network debugging and HTTP inspection tool for iOS.
+- [raw.githubusercontent.com/Tweaker177/EZCompleteUI/main/apps.json](https://raw.githubusercontent.com/Tweaker177/EZCompleteUI/main/apps.json) - EZCompleteUI source : Latest releases of the AI app by i0s_tweak3r.
 - [taurine.app/altstore/taurinestore.json](https://taurine.app/altstore/taurinestore.json) — **Taurine Repo** : Official source for the Taurine jailbreak (iOS 14–14.3), installs Sileo as the package manager.
 - [theodyssey.dev/altstore/odysseysource.json](https://theodyssey.dev/altstore/odysseysource.json) — **Odyssey Repo** : Official source for the Odyssey jailbreak (iOS 13–13.7), recommended by the developers.
 - [vvpapps.b-cdn.net/source.json](https://vvpapps.b-cdn.net/source.json) — CDN-hosted source for VVP apps.
