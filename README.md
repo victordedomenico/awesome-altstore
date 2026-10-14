@@ -92,6 +92,7 @@ A curated awesome list of AltStore sources (JSON repositories) to easily discove
 ## Useful Resources
 
 
+- [shrublibrary.pages.dev](https://shrublibrary.pages.dev) — The biggest IPA library, browse 100+ sources. Many features.
 - [explore.alt.store/directory](https://explore.alt.store/directory) — Official AltStore PAL directory to discover apps and sources (mainly EU).
 - [altsource.by.lao.sb/browse/](https://altsource.by.lao.sb/browse/) — AltStore source browser: paste any `.json` URL to preview its content before adding it.
 - [r/sideloaded](https://reddit.com/r/sideloaded) — iOS sideloading subreddit, great for finding recent repos.
