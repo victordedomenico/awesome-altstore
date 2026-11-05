@@ -49,6 +49,7 @@ A curated awesome list of AltStore sources (JSON repositories) to easily discove
 - [flyinghead.github.io/flycast-builds/altstore.json](https://flyinghead.github.io/flycast-builds/altstore.json) — **Flyinghead Repository** : Flycast builds — a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator for iOS.
 - [foxxoccino.github.io/PALSource.json](https://foxxoccino.github.io/PALSource.json) — Foxxoccino's personal PAL source hosted on GitHub Pages.
 - [get.furaffinity.app/altstore](https://get.furaffinity.app/altstore) — AltStore source used to distribute apps associated with the FurAffinity project.
+- [github.com/viktor-svirsky/tether/releases/latest/download/source.json](https://github.com/viktor-svirsky/tether/releases/latest/download/source.json) — **Tether** : Official source for Tether, which shares the iPhone's data with a laptop, iPad, Android phone or travel router over WireGuard, as the phone's own traffic.
 - [hann8n.github.io/JackCracks/MovieboxPro.json](https://hann8n.github.io/JackCracks/MovieboxPro.json) — Specialized source (e.g. MovieBox Pro).
 - [i.cizzuk.net/altstore/source.pal.json](https://i.cizzuk.net/altstore/source.pal.json) — Cizzuk's personal source, compatible with AltStore PAL.
 - [ipa.cypwn.xyz/cypwn.json](https://ipa.cypwn.xyz/cypwn.json) — **CyPwn IPA Library** : Large selection of tweaked IPAs, cracked apps, TIPA files for TrollStore and DEB files for jailbreak.
